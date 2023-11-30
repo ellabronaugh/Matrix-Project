@@ -16,7 +16,7 @@ knitr::opts_chunk$set(warning = FALSE)
 knitr::opts_chunk$set(out.width = "60%")
 ```
 
-# All of the below nonsense is for downloading the package that allows us to do the nonorthogonal decomposition with an included function. It's a huge package so I commented it out--don't download it if you don't have space. I haven't tried to use this function yet--I figured we could do it after we did our own decomposition to compare the results
+# All of the below nonsense is for downloading the package that allows us to do the nonorthogonal decomposition with an included function. It's a huge package so I commented it out--don't download it if you don't have space. I haven't tried to use this function yet--I figured we could do it after we did our own decomposition to compare the results. CHANGE HERE
 
 ```{r}
 #if (!require("BiocManager",quietly=TRUE))
